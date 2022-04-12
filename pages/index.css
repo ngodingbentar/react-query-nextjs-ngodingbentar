@@ -1,0 +1,51 @@
+/* global */
+
+.header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+}
+.coin-table {
+  justify-content: center;
+  margin: 20px auto;
+  width: 90vw;
+}
+
+.flex {
+  display: flex;
+}
+
+.coin-item {
+  padding: 20px 10px !important;
+}
+
+.coin-image {
+  width: 50px;
+  border-radius: 50%;
+}
+
+.coin-id {
+  padding: 0 20px;
+}
+
+.coin-symbol {
+  margin-bottom: 0;
+  padding: 2px;
+}
+
+.page {
+  padding: 0 30px;
+  margin: auto 0;
+}
+
+.pagination {
+  position: relative;
+}
+
+.pagination-item {
+  display: flex;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding-bottom: 40px;
+}
